@@ -1,14 +1,14 @@
 # TrojAI Literature Review 
 
-The list below contains curated papers and arXiv articles that are related to Trojan attacks, backdoor attacks, and data poisoning on neural networks and machine learning systems. They are ordered from most to least recent. These articles were identified using variety of methods including:
+The list below contains curated papers and arXiv articles that are related to Trojan attacks, backdoor attacks, and data poisoning on neural networks and machine learning systems. They are ordered from most to least recent and articles denoted with a "*" mention the TrojAI program directly. These articles were identified using variety of methods including:
 
 - A [flair](https://github.com/flairNLP/flair) embedding created from the arXiv CS subset; details will be provided later.
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
-1. [The TrojAI Software Framework: An OpenSource tool for Embedding Trojans into Deep Learning Models](https://arxiv.org/abs/2003.07233)
+1. [The TrojAI Software Framework: An OpenSource tool for Embedding Trojans into Deep Learning Models*](https://arxiv.org/abs/2003.07233)
 1. [BadNL: Backdoor Attacks Against NLP Models](https://arxiv.org/abs/2006.01043)
-1. [Neural Network Calculator for Designing Trojan Detectors](https://arxiv.org/abs/2006.03707)
+1. [Neural Network Calculator for Designing Trojan Detectors*](https://arxiv.org/abs/2006.03707)
 1. [Dynamic Backdoor Attacks Against Machine Learning Models](https://arxiv.org/abs/2003.03675)
 1. [Vulnerabilities of Connectionist AI Applications: Evaluation and Defence](https://arxiv.org/abs/2003.08837)
 1. [Backdoor Attacks on Federated Meta-Learning](https://arxiv.org/abs/2006.07026)
@@ -67,7 +67,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 1. [Technical Report: When Does Machine Learning FAIL? Generalized Transferability for Evasion and Poisoning Attacks](https://arxiv.org/abs/1803.06975)
 1. [Backdoor Embedding in Convolutional Neural Network Models via Invisible Perturbation](https://arxiv.org/abs/1808.10307)
 1. [Hu-Fu: Hardware and Software Collaborative Attack Framework against Neural Networks](https://arxiv.org/abs/1805.05098)
-1. [Attack Strength vs](https://arxiv.org/abs/1802.07295)
+1. [Attack Strength vs. Detectability Dilemma in Adversarial Machine Learning](https://arxiv.org/abs/1802.07295)
 1. [Data Poisoning Attacks in Contextual Bandits](https://arxiv.org/abs/1808.05760)
 1. [BEBP: An Poisoning Method Against Machine Learning Based IDSs](https://arxiv.org/abs/1803.03965)
 1. [Generative Poisoning Attack Method Against Neural Networks](https://arxiv.org/abs/1703.01340)
