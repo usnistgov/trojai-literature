@@ -53,13 +53,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 1. [Deepinspect: A black-box trojan detection and mitigation framework for deep neural networks](https://cseweb.ucsd.edu/~jzhao/files/DeepInspect-IJCAI2019.pdf)
 1. [Resilience of Pruned Neural Network Against Poisoning Attack](https://ieeexplore.ieee.org/document/8659362)
 1. [Spectrum Data Poisoning with Adversarial Deep Learning](https://arxiv.org/abs/1901.09247)
-1. <details>
-<summary>[Neural cleanse: Identifying and mitigating backdoor attacks in neural networks](https://people.cs.uchicago.edu/~huiyingli/publication/backdoor-sp19.pdf)</summary>
-
-    + Authors developed SentiNet detection framework for locating universal attacks on neural networks
-    + SentiNet is ambivalent to the attack vectors and uses model visualization / object detection techniques to extract potential attacks regions from the models input images.  The potential attacks regions are identified as being the parts that influence the prediction the most. After extraction, SentiNet applies these regions to benign inputs and uses the original model to analyze the output 
-    + Authors stress test the SentiNet framework on three different types of attacks— data poisoning attacks, Trojan attacks, and adversarial patches. They are able to show that the framework achieves competitive metrics across all of the attacks  (average true positive rate of 96.22% and an average true negative rate of 95.36%) 
-</details>
+1. [Neural cleanse: Identifying and mitigating backdoor attacks in neural networks](https://people.cs.uchicago.edu/~huiyingli/publication/backdoor-sp19.pdf)
 1. [SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems](https://arxiv.org/abs/1812.00292)
 1. [PoTrojan: powerful neural-level trojan designs in deep learning models](https://arxiv.org/abs/1802.03043)
 1. [Hardware Trojan Attacks on Neural Networks](https://arxiv.org/abs/1806.05768)
