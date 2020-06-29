@@ -1,6 +1,6 @@
 # TrojAI Literature Review 
 
-The list below contains curated papers and arXiv articles that are related to Trojan attacks, backdoor attacks, and data poisoning on neural networks and machine learning systems. They are ordered from most to least recent and articles denoted with a "*" mention the TrojAI program directly. Some of the particularly relevant papers include a summary that can be accessed by clicking the drop down icon located next to its link. These articles were identified using variety of methods including:
+The list below contains curated papers and arXiv articles that are related to Trojan attacks, backdoor attacks, and data poisoning on neural networks and machine learning systems. They are ordered from most to least recent and articles denoted with a "*" mention the TrojAI program directly. Some of the particularly relevant papers include a summary that can be accessed by clicking the "Summary" drop down icon underneath the paper link. These articles were identified using variety of methods including:
 
 - A [flair](https://github.com/flairNLP/flair) embedding created from the arXiv CS subset; details will be provided later.
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
@@ -22,6 +22,15 @@ The list below contains curated papers and arXiv articles that are related to Tr
 1. [On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping](https://arxiv.org/abs/2002.11497)
 1. [A Survey on Neural Trojans](https://eprint.iacr.org/2020/201.pdf)
 1. [STRIP: A Defence Against Trojan Attacks on Deep Neural Networks](https://arxiv.org/abs/1902.06531)
+    <details>
+      <summary>
+      Summary
+      </summary>  
+
+      * Authors introduce a run-time based trojan detection system called STRIP or STRong Intentional Pertubation which focuses on models in computer vision
+      * STRIP works by intentionally perturbing incoming inputs (ie. by image blending) and then measuring entropy to determine whether the model is trojaned or not. Low entropy violates the input-dependance assumption for a clean model and thus indicates corruption 
+      * Authors validate STRIPs efficacy on MNIST,CIFAR10, and GTSRB acheiveing false acceptance rates of below 1%
+    </details>
 1. [TrojDRL: Trojan Attacks on Deep Reinforcement Learning Agents](https://arxiv.org/abs/1903.06638)
 1. [Regula Sub-rosa: Latent Backdoor Attacks on Deep Neural Networks](https://arxiv.org/abs/1905.10447)
 1. [Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems](https://arxiv.org/abs/1908.03369)
@@ -55,14 +64,41 @@ The list below contains curated papers and arXiv articles that are related to Tr
 1. [Spectrum Data Poisoning with Adversarial Deep Learning](https://arxiv.org/abs/1901.09247)
 1. [Neural cleanse: Identifying and mitigating backdoor attacks in neural networks](https://people.cs.uchicago.edu/~huiyingli/publication/backdoor-sp19.pdf)
 1. [SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems](https://arxiv.org/abs/1812.00292)
+    <details>
+      <summary>
+      Summary
+      </summary>  
+
+      * Authors develop SentiNet detection framework for locating universal attacks on neural networks
+      * SentiNet is ambivalent to the attack vectors and uses model visualization / object detection techniques to extract potential attacks regions from the models input images.  The potential attacks regions are identified as being the parts that influence the prediction the most. After extraction, SentiNet applies these regions to benign inputs and uses the original model to analyze the output 
+      * Authors stress test the SentiNet framework on three different types of attacks— data poisoning attacks, Trojan attacks, and adversarial patches. They are able to show that the framework achieves competitive metrics across all of the attacks  (average true positive rate of 96.22% and an average true negative rate of 95.36%) 
+    </details>
 1. [PoTrojan: powerful neural-level trojan designs in deep learning models](https://arxiv.org/abs/1802.03043)
 1. [Hardware Trojan Attacks on Neural Networks](https://arxiv.org/abs/1806.05768)
 1. [Spectral Signatures in Backdoor Attacks](https://arxiv.org/abs/1811.00636)
+    <details>
+      <summary>
+      Summary
+      </summary>  
+
+      * Identified a  "spectral signatures" property of current backdoor attacks which allows the authors to use robust statistics to stop Trojan attacks 
+      * The "spectral signature" refers to a change in the covariance spectrum of learned feature representations that is left after a network is attacked. This can be detected by using singular value decomposition (SVD). SVD is used to identify which examples to remove from the training set. After these examples are removed the model is retrained on the cleaned dataset and is no longer Trojaned. The authors test this method on the CIFAR 10 image dataset.
+    </details>
 1. [Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering](https://arxiv.org/abs/1811.03728)
 1. [Model-Reuse Attacks on Deep Learning Systems](https://arxiv.org/abs/1812.00483)
 1. [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
 1. [Trojaning Attack on Neural Networks](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2782&context=cstech)
 1. [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792)
+    <details>
+      <summary>
+      Summary
+      </summary>  
+
+      * Proposes neural network poisoning attack that uses "clean labels" which do not require the adversary to mislabel training inputs
+      * The paper also presents a optimization based method for generating their poisoning attacks and provides a watermarking strategy for end-to-end attacks that improves the poisoning reliability 
+      * Authors demonstrate their method by using generated poisoned frog images from the CIFAR
+dataset to manipulate different kinds of image classifiers
+    </details>
 1. [Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks](https://arxiv.org/abs/1805.12185)
 1. [Technical Report: When Does Machine Learning FAIL? Generalized Transferability for Evasion and Poisoning Attacks](https://arxiv.org/abs/1803.06975)
 1. [Backdoor Embedding in Convolutional Neural Network Models via Invisible Perturbation](https://arxiv.org/abs/1808.10307)
@@ -72,6 +108,15 @@ The list below contains curated papers and arXiv articles that are related to Tr
 1. [BEBP: An Poisoning Method Against Machine Learning Based IDSs](https://arxiv.org/abs/1803.03965)
 1. [Generative Poisoning Attack Method Against Neural Networks](https://arxiv.org/abs/1703.01340)
 1. [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733)
+    <details>
+      <summary>
+      Summary
+      </summary>  
+
+      * Introduce Trojan Attacks— a type of attack where an adversary can create a maliciously trained network (a backdoored neural network, or a BadNet) that has state-of-the-art performance on the user’s training and validation samples, but behaves badly on specific attacker-chosen inputs
+      * Demonstrate backdoors in a more realistic scenario by creating a U.S. street sign classifier that identifies stop signs as speed limits when a special sticker is added to the stop sign
+
+    </details>
 1. [Towards Poisoning of Deep Learning Algorithms with Back-gradient Optimization](https://arxiv.org/abs/1708.08689)
 1. [Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning](https://arxiv.org/abs/1712.05526)
 1. [Neural Trojans](https://arxiv.org/abs/1710.00942)
