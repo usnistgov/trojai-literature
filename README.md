@@ -8,6 +8,18 @@ The list below contains curated papers and arXiv articles that are related to Tr
 
 1. [The TrojAI Software Framework: An OpenSource tool for Embedding Trojans into Deep Learning Models*](https://arxiv.org/abs/2003.07233)
 1. [BadNL: Backdoor Attacks Against NLP Models](https://arxiv.org/abs/2006.01043)
+    <details>
+      <summary>
+      Summary
+      </summary>  
+
+      * Introduces first example of backdoor attacks against NLP models using Char-level, Word-level, and Sentence-level triggers (these different triggers operate on the level of their descriptor) 
+            * Word-level trigger picks a word from the target model’s dictionary and uses it as a trigger
+            * Char-level trigger uses insertion, deletion or replacement to modify a single character in a chosen word’s location (with respect to the sentence, for instance, at the start of each sentence) as the trigger.
+            * Sentence-level trigger changes the grammar of the sentence and use this as the trigger
+      * Authors impose an additional constraint that requires inserted triggers to not change the sentiment of text input
+      * Proposed backdoor attack achieves 100% backdoor accuracy with only a drop of 0.18%, 1.26%, and 0.19% in the models utility, for the IMDB, Amazon, and Stanford Sentiment Treebank datasets
+    </details>
 1. [Neural Network Calculator for Designing Trojan Detectors*](https://arxiv.org/abs/2006.03707)
 1. [Dynamic Backdoor Attacks Against Machine Learning Models](https://arxiv.org/abs/2003.03675)
 1. [Vulnerabilities of Connectionist AI Applications: Evaluation and Defence](https://arxiv.org/abs/2003.08837)
@@ -109,6 +121,14 @@ The list below contains curated papers and arXiv articles that are related to Tr
 dataset to manipulate different kinds of image classifiers
     </details>
 1. [Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks](https://arxiv.org/abs/1805.12185)
+    <details>
+      <summary>
+      Summary
+      </summary>  
+
+      * Investigate two potential detection methods for backdoor attacks  (Fine-tuning and pruning). They find both are insufficient on their own and thus propose a combined detection method which they call "Fine-Pruning"  
+      * Authors go on to show that on three backdoor techniques "Fine-Pruning" is able to eliminate or reduce Trojans on datasets in the traffic sign, speech, and face recognition domains  
+    </details>
 1. [Technical Report: When Does Machine Learning FAIL? Generalized Transferability for Evasion and Poisoning Attacks](https://arxiv.org/abs/1803.06975)
 1. [Backdoor Embedding in Convolutional Neural Network Models via Invisible Perturbation](https://arxiv.org/abs/1808.10307)
 1. [Hu-Fu: Hardware and Software Collaborative Attack Framework against Neural Networks](https://arxiv.org/abs/1805.05098)
