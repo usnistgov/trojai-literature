@@ -14,9 +14,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
       </summary>  
 
       * Introduces first example of backdoor attacks against NLP models using Char-level, Word-level, and Sentence-level triggers (these different triggers operate on the level of their descriptor) 
-            * Word-level trigger picks a word from the target model’s dictionary and uses it as a trigger
-            * Char-level trigger uses insertion, deletion or replacement to modify a single character in a chosen word’s location (with respect to the sentence, for instance, at the start of each sentence) as the trigger.
-            * Sentence-level trigger changes the grammar of the sentence and use this as the trigger
+        * Word-level trigger picks a word from the target model’s dictionary and uses it as a trigger
+        * Char-level trigger uses insertion, deletion or replacement to modify a single character in a chosen word’s location (with respect to the sentence, for instance, at the start of each sentence) as the trigger.
+        * Sentence-level trigger changes the grammar of the sentence and use this as the trigger
       * Authors impose an additional constraint that requires inserted triggers to not change the sentiment of text input
       * Proposed backdoor attack achieves 100% backdoor accuracy with only a drop of 0.18%, 1.26%, and 0.19% in the models utility, for the IMDB, Amazon, and Stanford Sentiment Treebank datasets
     </details>
