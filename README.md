@@ -85,6 +85,15 @@ The list below contains curated papers and arXiv articles that are related to Tr
       * The "spectral signature" refers to a change in the covariance spectrum of learned feature representations that is left after a network is attacked. This can be detected by using singular value decomposition (SVD). SVD is used to identify which examples to remove from the training set. After these examples are removed the model is retrained on the cleaned dataset and is no longer Trojaned. The authors test this method on the CIFAR 10 image dataset.
     </details>
 1. [Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering](https://arxiv.org/abs/1811.03728)
+    <details>
+      <summary>
+      Summary
+      </summary>  
+
+      * Proposes Activation Clustering approach to backdoor detection/ removal which analyzes the neural network activations for anomalies and works for both text and images
+      * Activation Clustering uses dimensionality techniques (ICA, PCA) on the activations and then clusters them using k-means (k=2) along with a silhouette score metric to separate poisoned from clean clusters  
+      * Shows that Activation Clustering is successful on three different image/datasets (MNIST, LISA, Rotten Tomatoes)  as well as in settings where multiple Trojans are inserted and classes are multi-modal 
+    </details>
 1. [Model-Reuse Attacks on Deep Learning Systems](https://arxiv.org/abs/1812.00483)
 1. [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
 1. [Trojaning Attack on Neural Networks](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2782&context=cstech)
