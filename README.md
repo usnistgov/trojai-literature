@@ -6,6 +6,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks](https://arxiv.org/abs/2007.00711)
+1. [Model-Targeted Poisoning Attacks: Provable Convergence and Certified Bounds](https://arxiv.org/abs/2006.16469)
+1. [Deep Partition Aggregation: Provable Defense against General Poisoning Attacks](https://arxiv.org/abs/2006.14768)
 1. [The TrojAI Software Framework: An OpenSource tool for Embedding Trojans into Deep Learning Models*](https://arxiv.org/abs/2003.07233)
 1. [BadNL: Backdoor Attacks Against NLP Models](https://arxiv.org/abs/2006.01043)
     <details>
