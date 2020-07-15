@@ -6,11 +6,11 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
-1.[You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion](http://arxiv.org/abs/2007.02220)
-1.[Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks](http://arxiv.org/abs/2007.02343)
-1.[Trembling triggers: exploring the sensitivity of backdoors in DNN-based face recognition](https://doi.org/10.1186/s13635-020-00104-z)
-1.[Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks](https://arxiv.org/abs/2006.12557)
-1.[Adversarial Machine Learning -- Industry Perspectives](https://arxiv.org/abs/2002.05646)
+1. [You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion](http://arxiv.org/abs/2007.02220)
+1. [Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks](http://arxiv.org/abs/2007.02343)
+1. [Trembling triggers: exploring the sensitivity of backdoors in DNN-based face recognition](https://doi.org/10.1186/s13635-020-00104-z)
+1. [Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks](https://arxiv.org/abs/2006.12557)
+1. [Adversarial Machine Learning -- Industry Perspectives](https://arxiv.org/abs/2002.05646)
 1. [ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks](https://arxiv.org/abs/2007.00711)
 1. [Model-Targeted Poisoning Attacks: Provable Convergence and Certified Bounds](https://arxiv.org/abs/2006.16469)
 1. [Deep Partition Aggregation: Provable Defense against General Poisoning Attacks](https://arxiv.org/abs/2006.14768)
