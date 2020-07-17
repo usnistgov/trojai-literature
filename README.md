@@ -1,11 +1,15 @@
 # TrojAI Literature Review 
 
-The list below contains curated papers and arXiv articles that are related to Trojan attacks, backdoor attacks, and data poisoning on neural networks and machine learning systems. They are ordered from most to least recent and articles denoted with a "*" mention the TrojAI program directly. Some of the particularly relevant papers include a summary that can be accessed by clicking the "Summary" drop down icon underneath the paper link. These articles were identified using variety of methods including:
+The list below contains curated papers and arXiv articles that are related to Trojan attacks, backdoor attacks, and data poisoning on neural networks and machine learning systems. They are ordered approximately from most to least recent and articles denoted with a "*" mention the TrojAI program directly. Some of the particularly relevant papers include a summary that can be accessed by clicking the "Summary" drop down icon underneath the paper link. These articles were identified using variety of methods including:
 
 - A [flair](https://github.com/flairNLP/flair) embedding created from the arXiv CS subset; details will be provided later.
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Attack of the Tails: Yes, You Really Can Backdoor Federated Learning](https://arxiv.org/abs/2007.05084)
+1. [Backdoor Attacks on Facial Recognition in the Physical World](http://arxiv.org/abs/2006.14580)
+1. [Graph Backdoor](http://arxiv.org/abs/2006.11890)
+1. [Backdoor Attacks to Graph Neural Networks](http://arxiv.org/abs/2006.11165)
 1. [You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion](http://arxiv.org/abs/2007.02220)
 1. [Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks](http://arxiv.org/abs/2007.02343)
 1. [Trembling triggers: exploring the sensitivity of backdoors in DNN-based face recognition](https://doi.org/10.1186/s13635-020-00104-z)
