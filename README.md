@@ -6,6 +6,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Backdoor Learning: A Survey](http://arxiv.org/abs/2007.08745)
+1. [Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review](http://arxiv.org/abs/2007.10760)
+1. [Live Trojan Attacks on Deep Neural Networks](http://arxiv.org/abs/2004.11370)
 1. [Odyssey: Creation, Analysis and Detection of Trojan Models](https://arxiv.org/abs/2007.08142)
 1. [Data Poisoning Attacks Against Federated Learning Systems](http://arxiv.org/abs/2007.08432)
 1. [Blind Backdoors in Deep Learning Models](http://arxiv.org/abs/2005.03823)
