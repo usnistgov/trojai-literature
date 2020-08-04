@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Cassandra: Detecting Trojaned Networks from Adversarial Perturbations](http://arxiv.org/abs/2007.14433)
 1. [Backdoor Learning: A Survey](http://arxiv.org/abs/2007.08745)
 1. [Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review](http://arxiv.org/abs/2007.10760)
 1. [Live Trojan Attacks on Deep Neural Networks](http://arxiv.org/abs/2004.11370)
