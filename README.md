@@ -6,6 +6,11 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks](https://arxiv.org/abs/2008.04495)
+1. [Can Adversarial Weight Perturbations Inject Neural Backdoors?](https://arxiv.org/abs/2008.01761)
+1. [Trojaning Language Models for Fun and Profit](https://arxiv.org/abs/2008.00312)
+1. [Practical Detection of Trojan Neural Networks: Data-Limited and Data-Free Cases](https://arxiv.org/abs/2007.15802)
+1. [Class-Oriented Poisoning Attack](https://arxiv.org/abs/2008.00047)
 1. [Noise-response Analysis for Rapid Detection of Backdoors in Deep Neural Networks](https://arxiv.org/abs/2008.00123)
 1. [Cassandra: Detecting Trojaned Networks from Adversarial Perturbations](http://arxiv.org/abs/2007.14433)
 1. [Backdoor Learning: A Survey](http://arxiv.org/abs/2007.08745)
@@ -177,4 +182,6 @@ dataset to manipulate different kinds of image classifiers
 1. [Data poisoning attacks against autoregressive models](https://dl.acm.org/doi/10.5555/3016100.3016102)
 1. [Using machine teaching to identify optimal training-set attacks on machine learners](https://dl.acm.org/doi/10.5555/2886521.2886721)
 1. [Poisoning Attacks against Support Vector Machines](https://arxiv.org/abs/1206.6389)
+1. [Backdoor Attacks against Learning Systems](https://par.nsf.gov/servlets/purl/10066467)
+1. [Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning](https://arxiv.org/abs/1712.05526)
 1. [Antidote: Understanding and defending against poisoning of anomaly detectors](https://dl.acm.org/doi/10.1145/1644893.1644895)
