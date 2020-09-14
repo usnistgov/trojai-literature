@@ -6,6 +6,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy](https://arxiv.org/abs/2009.03561)
+1. [CLEANN: Accelerated Trojan Shield for Embedded Neural Networks](https://arxiv.org/abs/2009.02326)
+1. [Witches’ Brew: Industrial Scale Data Poisoning via Gradient Matching](https://arxiv.org/abs/2009.02276)
 1. [Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks](https://arxiv.org/abs/2008.04495)
 1. [Can Adversarial Weight Perturbations Inject Neural Backdoors?](https://arxiv.org/abs/2008.01761)
 1. [Trojaning Language Models for Fun and Profit](https://arxiv.org/abs/2008.00312)
