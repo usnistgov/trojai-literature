@@ -6,6 +6,8 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models](https://arxiv.org/abs/2010.03007)
+1. [Don’t Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks](https://arxiv.org/abs/2010.03282)
 1. [Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy](https://arxiv.org/abs/2009.03561)
 1. [CLEANN: Accelerated Trojan Shield for Embedded Neural Networks](https://arxiv.org/abs/2009.02326)
 1. [Witches’ Brew: Industrial Scale Data Poisoning via Gradient Matching](https://arxiv.org/abs/2009.02276)
@@ -126,6 +128,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
       * Identified a  "spectral signatures" property of current backdoor attacks which allows the authors to use robust statistics to stop Trojan attacks 
       * The "spectral signature" refers to a change in the covariance spectrum of learned feature representations that is left after a network is attacked. This can be detected by using singular value decomposition (SVD). SVD is used to identify which examples to remove from the training set. After these examples are removed the model is retrained on the cleaned dataset and is no longer Trojaned. The authors test this method on the CIFAR 10 image dataset.
     </details>
+1. [Defending Neural Backdoors via Generative Distribution Modeling](https://arxiv.org/abs/1910.04749)
 1. [Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering](https://arxiv.org/abs/1811.03728)
     <details>
       <summary>
