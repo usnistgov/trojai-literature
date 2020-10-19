@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Reverse Engineering Imperceptible Backdoor Attacks on Deep Neural Networks for Detection and Training Set Cleansing](https://arxiv.org/abs/2010.07489)
 1. [BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models](https://arxiv.org/abs/2010.03007)
 1. [Don’t Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks](https://arxiv.org/abs/2010.03282)
 1. [Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy](https://arxiv.org/abs/2009.03561)
