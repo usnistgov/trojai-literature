@@ -6,6 +6,12 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Customizing Triggers with Concealed Data Poisoning](https://arxiv.org/abs/2010.12563)
+1. [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)
+1. [Rethinking the Trigger of Backdoor Attack](https://arxiv.org/abs/2004.04692)
+1. [AEGIS: Exposing Backdoors in Robust Machine Learning Models](https://arxiv.org/abs/2003.00865)
+1. [Poisoned classifiers are not only backdoored, they are fundamentally broken](https://arxiv.org/abs/2010.09080)
+1. [Input-Aware Dynamic Backdoor Attack](https://arxiv.org/abs/2010.08138)
 1. [Reverse Engineering Imperceptible Backdoor Attacks on Deep Neural Networks for Detection and Training Set Cleansing](https://arxiv.org/abs/2010.07489)
 1. [BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models](https://arxiv.org/abs/2010.03007)
 1. [Don’t Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks](https://arxiv.org/abs/2010.03282)
@@ -84,6 +90,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 1. [Invisible Backdoor Attacks Against Deep Neural Networks](https://arxiv.org/abs/1909.02742)
 1. [Detecting AI Trojans Using Meta Neural Analysis](https://arxiv.org/abs/1910.03137)
 1. [Label-Consistent Backdoor Attacks](https://arxiv.org/abs/1912.02771)
+1. [Detection of Backdoors in Trained Classifiers Without Access to the Training Set](https://arxiv.org/abs/1908.10498)
 1. [ABS: Scanning neural networks for back-doors by artificial brain stimulation](https://www.cs.purdue.edu/homes/taog/docs/CCS19.pdf)
 1. [NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations](https://arxiv.org/abs/1911.07399)
 1. [Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs](https://arxiv.org/abs/1906.10842)
