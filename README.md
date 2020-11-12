@@ -6,6 +6,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [BaFFLe: Backdoor detection via Feedback-based Federated Learning](https://arxiv.org/abs/2011.02167)
+1. [Detecting Backdoors in Neural Networks Using Novel Feature-Based Anomaly Detection](https://arxiv.org/abs/2011.02526)
+1. [Mitigating Backdoor Attacks in Federated Learning](https://arxiv.org/abs/2011.01767)
 1. [Customizing Triggers with Concealed Data Poisoning](https://arxiv.org/abs/2010.12563)
 1. [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)
 1. [Rethinking the Trigger of Backdoor Attack](https://arxiv.org/abs/2004.04692)
