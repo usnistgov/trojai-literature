@@ -85,6 +85,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
       * Authors validate STRIPs efficacy on MNIST,CIFAR10, and GTSRB acheiveing false acceptance rates of below 1%
     </details>
 1. [TrojDRL: Trojan Attacks on Deep Reinforcement Learning Agents](https://arxiv.org/abs/1903.06638)
+1. [Demon in the Variant: Statistical Analysis of DNNs for Robust Backdoor Contamination Detection](https://arxiv.org/abs/1908.00686)
 1. [Regula Sub-rosa: Latent Backdoor Attacks on Deep Neural Networks](https://arxiv.org/abs/1905.10447)
 1. [Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems](https://arxiv.org/abs/1908.03369)
 1. [TBT: Targeted Neural Network Attack with Bit Trojan](https://arxiv.org/abs/1909.05193)
