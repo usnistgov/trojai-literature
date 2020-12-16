@@ -14,6 +14,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 1. [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)
 1. [Rethinking the Trigger of Backdoor Attack](https://arxiv.org/abs/2004.04692)
 1. [AEGIS: Exposing Backdoors in Robust Machine Learning Models](https://arxiv.org/abs/2003.00865)
+1. [Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660)
 1. [Poisoned classifiers are not only backdoored, they are fundamentally broken](https://arxiv.org/abs/2010.09080)
 1. [Input-Aware Dynamic Backdoor Attack](https://arxiv.org/abs/2010.08138)
 1. [Reverse Engineering Imperceptible Backdoor Attacks on Deep Neural Networks for Detection and Training Set Cleansing](https://arxiv.org/abs/2010.07489)
