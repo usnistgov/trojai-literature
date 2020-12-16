@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder](https://arxiv.org/abs/2010.02684)
 1. [Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Tradeoff](https://arxiv.org/abs/2011.09527)
 1. [BaFFLe: Backdoor detection via Feedback-based Federated Learning](https://arxiv.org/abs/2011.02167)
 1. [Detecting Backdoors in Neural Networks Using Novel Feature-Based Anomaly Detection](https://arxiv.org/abs/2011.02526)
