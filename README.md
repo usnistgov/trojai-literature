@@ -7,6 +7,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A curated manual literature review
 
 1. [Fair Detection of Poisoning Attacks in Federated Learning](https://ieeexplore.ieee.org/abstract/9288279)
+1. [Deep Feature Space Trojan Attack of Neural Networks by Controlled Detoxification*](https://arxiv.org/pdf/2012.11212.pdf)
+1. [Stealthy Poisoning Attack on Certified Robustness](http://www.cs.tulane.edu/~jhamm3/papers/neuripsw20am.pdf)
+1. [Machine Learning with Electronic Health Records is vulnerable to Backdoor Trigger Attacks](http://www.cs.tulane.edu/~jhamm3/papers/aaaiw21bj.pdf) 
 1. [Data Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses](https://arxiv.org/pdf/2012.10544.pdf)
 1. [Detection of Backdoors in Trained Classifiers Without Access to the Training Set](https://pubmed.ncbi.nlm.nih.gov/33326384/)
 1. [TROJANZOO: Everything you ever wanted to know about neural backdoors(but were afraid to ask)](https://arxiv.org/pdf/2012.09302.pdf)
