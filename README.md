@@ -5,6 +5,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A [flair](https://github.com/flairNLP/flair) embedding created from the arXiv CS subset; details will be provided later.
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
+
+1. [Fair Detection of Poisoning Attacks in Federated Learning](https://ieeexplore.ieee.org/abstract/9288279)
+1. [Data Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses](https://arxiv.org/pdf/2012.10544.pdf)
 1. [Detection of Backdoors in Trained Classifiers Without Access to the Training Set](https://pubmed.ncbi.nlm.nih.gov/33326384/)
 1. [TROJANZOO: Everything you ever wanted to know about neural backdoors(but were afraid to ask)](https://arxiv.org/pdf/2012.09302.pdf)
 1. [HaS-Nets: A Heal and Select Mechanism to Defend DNNs Against Backdoor Attacks for Data Collection Scenarios](https://arxiv.org/abs/2012.07474)
