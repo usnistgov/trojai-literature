@@ -6,6 +6,8 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [SPA: Stealthy Poisoning Attack](https://dl.acm.org/doi/abs/10.1145/3444370.3444589)
+1. [Explainability Matters: Backdoor Attacks on Medical Imaging](http://arxiv.org/abs/2101.00008)
 1. [Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks](https://arxiv.org/abs/2006.12557)
 1. [Poisoning Attacks on Cyber Attack Detectors for Industrial Control Systems](https://arxiv.org/pdf/2012.15740.pdf)
 1. [Fair Detection of Poisoning Attacks in Federated Learning](https://ieeexplore.ieee.org/abstract/9288279)
