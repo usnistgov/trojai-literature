@@ -15,6 +15,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 1. [Backdoors hidden in facial features: a novel invisible backdoor attack against face recognition systems](https://link.springer.com/article/10.1007/s12083-020-01031-z)
 1. [One-to-N & N-to-One: Two Advanced Backdoor Attacks against Deep Learning Models](https://ieeexplore.ieee.org/document/9211729)
 1. [DeepPoison: Feature Transfer Based Stealthy Poisoning Attack](https://arxiv.org/abs/2101.02562)
+1.[Composite Backdoor Attack for Deep Neural Network by Mixing Existing Benign Features](https://dl.acm.org/doi/10.1145/3372297.3423362)
 1. [SPA: Stealthy Poisoning Attack](https://dl.acm.org/doi/abs/10.1145/3444370.3444589)
 1. [Explainability Matters: Backdoor Attacks on Medical Imaging](http://arxiv.org/abs/2101.00008)
 1. [Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks](https://arxiv.org/abs/2006.12557)
