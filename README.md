@@ -8,6 +8,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 
 
 1. [A Master Key Backdoor for Universal Impersonation Attack against DNN-based Face Verification](https://www.sciencedirect.com/science/article/abs/pii/S0167865521000210#!)
+1.[Detecting Universal Trigger's Adversarial Attack with Honeypot](https://arxiv.org/abs/2011.10492) 
 1. [ONION: A Simple and Effective Defense Against Textual Backdoor Attacks](https://arxiv.org/abs/2011.10369)
 1. [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930)
 1. [Data Poisoning Attacks to Deep Learning Based Recommender Systems](https://arxiv.org/abs/2101.02644)
