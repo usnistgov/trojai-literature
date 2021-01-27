@@ -6,10 +6,13 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+
 1. [A Master Key Backdoor for Universal Impersonation Attack against DNN-based Face Verification](https://www.sciencedirect.com/science/article/abs/pii/S0167865521000210#!)
+1. [ONION: A Simple and Effective Defense Against Textual Backdoor Attacks](https://arxiv.org/abs/2011.10369)
 1. [Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks](https://arxiv.org/abs/2101.05930)
 1. [Data Poisoning Attacks to Deep Learning Based Recommender Systems](https://arxiv.org/abs/2101.02644)
 1. [Backdoors hidden in facial features: a novel invisible backdoor attack against face recognition systems](https://link.springer.com/article/10.1007/s12083-020-01031-z)
+1. [One-to-N & N-to-One: Two Advanced Backdoor Attacks against Deep Learning Models](https://ieeexplore.ieee.org/document/9211729)
 1. [DeepPoison: Feature Transfer Based Stealthy Poisoning Attack](https://arxiv.org/abs/2101.02562)
 1. [SPA: Stealthy Poisoning Attack](https://dl.acm.org/doi/abs/10.1145/3444370.3444589)
 1. [Explainability Matters: Backdoor Attacks on Medical Imaging](http://arxiv.org/abs/2101.00008)
