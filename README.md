@@ -6,7 +6,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
-
+1. [Baseline Pruning-Based Approach to Trojan Detection in Neural Networks*](https://arxiv.org/abs/2101.12016)
+1. [Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization](https://arxiv.org/abs/2101.11799)
+1. [Property Inference from Poisoning](https://arxiv.org/abs/2101.11073)
 1. [A Master Key Backdoor for Universal Impersonation Attack against DNN-based Face Verification](https://www.sciencedirect.com/science/article/abs/pii/S0167865521000210#!)
 1. [Detecting Universal Trigger's Adversarial Attack with Honeypot](https://arxiv.org/abs/2011.10492) 
 1. [ONION: A Simple and Effective Defense Against Textual Backdoor Attacks](https://arxiv.org/abs/2011.10369)
