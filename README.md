@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Data Poisoning Attack on Deep Neural Network and Some Defense Methods](https://conferences.computer.org/acomppub/pdfs/ACOMP2020-3FLOMB9Cka9w5SsnAX9Hs0/816700a015/816700a015.pdf)
 1. [Baseline Pruning-Based Approach to Trojan Detection in Neural Networks*](https://arxiv.org/abs/2101.12016)
 1. [Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization](https://arxiv.org/abs/2101.11799)
 1. [Property Inference from Poisoning](https://arxiv.org/abs/2101.11073)
