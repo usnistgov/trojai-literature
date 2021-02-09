@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [TAD: Trigger Approximation based Black-box Trojan Detection for AI*](https://arxiv.org/abs/2102.01815)
 1. [WaNet - Imperceptible Warping-based Backdoor Attack](https://openreview.net/pdf?id=eEn8KTtJOx)
 1. [Data Poisoning Attack on Deep Neural Network and Some Defense Methods](https://conferences.computer.org/acomppub/pdfs/ACOMP2020-3FLOMB9Cka9w5SsnAX9Hs0/816700a015/816700a015.pdf)
 1. [Baseline Pruning-Based Approach to Trojan Detection in Neural Networks*](https://arxiv.org/abs/2101.12016)
