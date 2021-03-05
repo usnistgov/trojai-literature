@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [What Doesn't Kill You Makes You Robust(er): Adversarial Training against Poisons and Backdoors](https://arxiv.org/abs/2102.13624)
 1. [Red Alarm for Pre-trained Models: Universal Vulnerabilities by Neuron-Level Backdoor Attacks](https://arxiv.org/abs/2101.06969)
 1. [Provable Defense Against Delusive Poisoning](https://arxiv.org/abs/2102.04716)
 1. [An Approach for Poisoning Attacks Against RNN-Based Cyber Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/9343232)
