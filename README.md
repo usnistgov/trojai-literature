@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [TOP: Backdoor Detection in Neural Networks via Transferability of Perturbation](https://arxiv.org/abs/2103.10274)
 1. [T-Miner : A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification](https://arxiv.org/pdf/2103.04264.pdf)
 1. [Hidden Backdoor Attack against Semantic Segmentation Models](https://arxiv.org/abs/2103.04038)
 1. [What Doesn't Kill You Makes You Robust(er): Adversarial Training against Poisons and Backdoors](https://arxiv.org/abs/2102.13624)
