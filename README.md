@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [https://arxiv.org/abs/2103.16074](https://arxiv.org/pdf/2103.16074.pdf)
 1. [Online Defense of Trojaned Models using Misattributions](https://arxiv.org/abs/2103.15918)
 2. [Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models](https://arxiv.org/abs/2103.15543)
 3. [SPECTRE: Defending Against Backdoor Attacks Using Robust Covariance Estimation](https://homes.cs.washington.edu/~sewoong/backdoor.pdf)
