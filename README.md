@@ -6,6 +6,11 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Transferable Environment Poisoning: Training-time Attack on Reinforcement Learning](https://dl.acm.org/doi/abs/10.5555/3461017.3461172)
+1. [Investigation of a differential cryptanalysis inspired approach for Trojan AI detection](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11746/117460X/Investigation-of-a-differential-cryptanalysis-inspired-approach-for-Trojan-AI/10.1117/12.2588008.short?SSO=1)
+1. [Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers](https://arxiv.org/abs/2003.01031)
+1. [Robust Backdoor Attacks against Deep Neural Networks in Real Physical World](https://arxiv.org/abs/2104.07395)
+1. [The Design and Development of a Game to Study Backdoor Poisoning Attacks: The Backdoor Game](https://dl.acm.org/doi/abs/10.1145/3397481.3450647)
 1. [A Backdoor Attack against 3D Point Cloud Classifiers](https://arxiv.org/abs/2104.05808)
 1. [Explainability-based Backdoor Attacks Against Graph Neural Networks](https://arxiv.org/abs/2104.03674)
 1. [DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation](https://arxiv.org/abs/2012.07006)
