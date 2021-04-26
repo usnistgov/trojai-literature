@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [https://arxiv.org/abs/2104.10561](https://arxiv.org/abs/2104.10561)
 1. [Backdoor Attacks Against Deep Learning Systems in the Physical World](https://arxiv.org/abs/2006.14580)
 1. [Backdoor Attacks on Self-Supervised Learning](https://www.csee.umbc.edu/~hpirsiav/papers/Backdoor_SSL.pdf)
 1. [Transferable Environment Poisoning: Training-time Attack on Reinforcement Learning](https://dl.acm.org/doi/abs/10.5555/3461017.3461172)
