@@ -109,7 +109,8 @@ The list below contains curated papers and arXiv articles that are related to Tr
 88. [Model-Targeted Poisoning Attacks: Provable Convergence and Certified Bounds](https://arxiv.org/abs/2006.16469)
 89. [Deep Partition Aggregation: Provable Defense against General Poisoning Attacks](https://arxiv.org/abs/2006.14768)
 90. [The TrojAI Software Framework: An OpenSource tool for Embedding Trojans into Deep Learning Models*](https://arxiv.org/abs/2003.07233)
-91. [BadNL: Backdoor Attacks Against NLP Models](https://arxiv.org/abs/2006.01043)
+91. [Influence Function based Data Poisoning Attacks to Top-N Recommender Systems](https://arxiv.org/abs/2002.08025)
+92. [BadNL: Backdoor Attacks Against NLP Models](https://arxiv.org/abs/2006.01043)
     <details>
       <summary>
       Summary
