@@ -6,6 +6,8 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching](https://arxiv.org/abs/2009.02276)
+1. [Towards Robustness Against Natural Language Word Substitutions](https://openreview.net/forum?id=ks5nebunVn_)
 1. [Concealed Data Poisoning Attacks on NLP Models](https://arxiv.org/abs/2010.12563)
 1. [Covert Channel Attack to Federated Learning Systems](https://arxiv.org/abs/2104.10561)
 1. [Backdoor Attacks Against Deep Learning Systems in the Physical World](https://arxiv.org/abs/2006.14580)
