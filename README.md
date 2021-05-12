@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [MLDS: A Dataset for Weight-Space Analysis of Neural Networks](https://arxiv.org/pdf/2104.10555.pdf)
 1. [Poisoning the Unlabeled Dataset of Semi-Supervised Learning](https://arxiv.org/abs/2105.01622)
 1. [Regularization Can Help Mitigate Poisioning
 Attacks. . . With The Right Hyperparameters](https://www.researchgate.net/profile/Javier-Carnerero-Cano/publication/351273823_Regularization_Can_Help_Mitigate_Poisoning_Attacks_with_the_Right_Hyperparameters/links/608ed4eb299bf1ad8d72886d/Regularization-Can-Help-Mitigate-Poisoning-Attacks-with-the-Right-Hyperparameters.pdf)
