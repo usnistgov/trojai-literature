@@ -6,6 +6,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [De-Pois: An Attack-Agnostic Defense against Data Poisoning Attacks](https://arxiv.org/pdf/2105.03592.pdf)
+1. [Poisoning MorphNet for Clean-Label Backdoor Attack to Point Clouds](https://arxiv.org/abs/2105.04839)
+1. [Provable Guarantees against Data Poisoning Using Self-Expansion and Compatibility](https://arxiv.org/abs/2105.03692)
 1. [MLDS: A Dataset for Weight-Space Analysis of Neural Networks](https://arxiv.org/pdf/2104.10555.pdf)
 1. [Poisoning the Unlabeled Dataset of Semi-Supervised Learning](https://arxiv.org/abs/2105.01622)
 1. [Regularization Can Help Mitigate Poisioning
