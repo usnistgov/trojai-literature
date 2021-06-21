@@ -6,6 +6,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch](https://arxiv.org/abs/2106.08970)
+1. [Poisoning and Backdooring Contrastive Learning](https://arxiv.org/abs/2106.09667)
+1. [AdvDoor: Adversarial Backdoor Attack of Deep Learning System](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/issta21_learning.pdf)
 1. [Defending against Backdoor Attacks in Natural Language Generation](https://arxiv.org/abs/2106.01810)
 1. [De-Pois: An Attack-Agnostic Defense against Data Poisoning Attacks](https://arxiv.org/pdf/2105.03592.pdf)
 1. [Poisoning MorphNet for Clean-Label Backdoor Attack to Point Clouds](https://arxiv.org/abs/2105.04839)
