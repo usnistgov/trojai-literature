@@ -37,7 +37,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 1. [Putting words into the system’s mouth: A targeted attack on neural machine translation using monolingual data poisoning](https://arxiv.org/pdf/2107.05243.pdf)
 1. [SUBNET REPLACEMENT: DEPLOYMENT-STAGE BACKDOOR ATTACK AGAINST DEEP NEURAL NETWORKS IN GRAY-BOX SETTING](https://arxiv.org/abs/2107.07240)
 1. [Spinning Sequence-to-Sequence Models with Meta-Backdoors](https://arxiv.org/abs/2107.10443)
-11. [Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch](https://arxiv.org/abs/2106.08970)
+1. [Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch](https://arxiv.org/abs/2106.08970)
 1. [Poisoning and Backdooring Contrastive Learning](https://arxiv.org/abs/2106.09667)
 1. [AdvDoor: Adversarial Backdoor Attack of Deep Learning System](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/issta21_learning.pdf)
 1. [Defending against Backdoor Attacks in Natural Language Generation](https://arxiv.org/abs/2106.01810)
