@@ -6,7 +6,24 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
-
+1. [Simple, Attack-Agnostic Defense Against Targeted Training Set Attacks Using Cosine Similarity](http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-029.pdf)
+1. [Data Poisoning Attacks Against Outcome Interpretations of Predictive Models](https://dl.acm.org/doi/abs/10.1145/3447548.3467405)
+1. [BDDR: An Effective Defense Against Textual Backdoor Attacks](https://www.sciencedirect.com/science/article/pii/S0167404821002571)
+1. [Poisoning attacks and countermeasures in intelligent networks: status quo and prospects](https://www.sciencedirect.com/science/article/pii/S235286482100050X)
+1. [The Devil is in the GAN: Defending Deep Generative Models Against Backdoor Attacks](https://arxiv.org/pdf/2108.01644.pdf)
+1. [BadEncoder: Backdoor Attacks to Pre-trainedEncoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf)
+1. [BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf)
+1. [Can You Hear It? Backdoor Attacks via Ultrasonic Triggers](https://arxiv.org/pdf/2107.14569.pdf)
+1. [Poisoning Attacks via Generative Adversarial Text to Image Synthesis](https://ieeexplore.ieee.org/abstract/document/9502441)
+1. [Ant Hole: Data Poisoning Attack Breaking out the Boundary of Face Cluster](https://ieeexplore.ieee.org/abstract/document/9502431)
+1. [Poison Ink: Robust and Invisible Backdoor Attack](https://arxiv.org/pdf/2108.02488.pdf)
+1. [MT-MTD: Muti-Training based Moving Target Defense Trojaning Attack in Edged-AI network](https://ieeexplore.ieee.org/abstract/document/9500545)
+1. [Text Backdoor Detection Using An Interpretable RNN Abstract Model](https://ieeexplore.ieee.org/abstract/document/9508422)
+1. [Garbage in, Garbage out: Poisoning Attacks Disguised with Plausible Mobility in Data Aggregation](https://ieeexplore.ieee.org/abstract/document/9511094
+1. [Classification Auto-Encoder based Detector against Diverse Data Poisoning Attacks](https://arxiv.org/pdf/2108.04206.pdf)
+1. [Poisoning Knowledge Graph Embeddings via Relation Inference Patterns](https://aclanthology.org/2021.acl-long.147.pdf)
+1. [Adversarial Training Time Attack Against Discriminative and Generative Convolutional Models](https://ieeexplore.ieee.org/abstract/document/9502126)
+1. [Poisoning of Online Learning Filters: DDoS Attacks and Countermeasures](https://arxiv.org/abs/2107.12612)
 1. [Rethinking Stealthiness of Backdoor Attack against NLP Models](https://aclanthology.org/2021.acl-long.431.pdf)
 1. [Robust Learning for Data Poisoning Attacks](http://proceedings.mlr.press/v139/wang21r/wang21r.pdf)
 1. [SPECTRE: Defending Against Backdoor Attacks Using Robust Statistics](http://proceedings.mlr.press/v139/hayase21a/hayase21a.pdf)
