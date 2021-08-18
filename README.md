@@ -19,7 +19,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 1. [Poison Ink: Robust and Invisible Backdoor Attack](https://arxiv.org/pdf/2108.02488.pdf)
 1. [MT-MTD: Muti-Training based Moving Target Defense Trojaning Attack in Edged-AI network](https://ieeexplore.ieee.org/abstract/document/9500545)
 1. [Text Backdoor Detection Using An Interpretable RNN Abstract Model](https://ieeexplore.ieee.org/abstract/document/9508422)
-1. [Garbage in, Garbage out: Poisoning Attacks Disguised with Plausible Mobility in Data Aggregation](https://ieeexplore.ieee.org/abstract/document/9511094
+1. [Garbage in, Garbage out: Poisoning Attacks Disguised with Plausible Mobility in Data Aggregation](https://ieeexplore.ieee.org/abstract/document/9511094)
 1. [Classification Auto-Encoder based Detector against Diverse Data Poisoning Attacks](https://arxiv.org/pdf/2108.04206.pdf)
 1. [Poisoning Knowledge Graph Embeddings via Relation Inference Patterns](https://aclanthology.org/2021.acl-long.147.pdf)
 1. [Adversarial Training Time Attack Against Discriminative and Generative Convolutional Models](https://ieeexplore.ieee.org/abstract/document/9502126)
