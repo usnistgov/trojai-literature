@@ -1,12 +1,26 @@
 # TrojAI Literature Review 
 
-The list below contains curated papers and arXiv articles that are related to Trojan attacks, backdoor attacks, and data poisoning on neural networks and machine learning systems. They are ordered approximately from most to least recent and articles denoted with a "*" mention the TrojAI program directly. Some of the particularly relevant papers include a summary that can be accessed by clicking the "Summary" drop down icon underneath the paper link. These articles were identified using variety of methods including:
+The list below contains curated papers and arXiv articles that are related to Trojan attacks, backdoor attacks, and data poisoning on neural networks and machine learning systems. They are ordered "approximately" from most to least recent and articles denoted with a "*" mention the TrojAI program directly. Some of the particularly relevant papers include a summary that can be accessed by clicking the "Summary" drop down icon underneath the paper link. These articles were identified using variety of methods including:
 
 - A [flair](https://github.com/flairNLP/flair) embedding created from the arXiv CS subset; details will be provided later.
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
-1. [Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch](https://arxiv.org/abs/2106.08970)
+
+1. [Rethinking Stealthiness of Backdoor Attack against NLP Models](https://aclanthology.org/2021.acl-long.431.pdf)
+1. [Robust Learning for Data Poisoning Attacks](http://proceedings.mlr.press/v139/wang21r/wang21r.pdf)
+1. [SPECTRE: Defending Against Backdoor Attacks Using Robust Statistics](http://proceedings.mlr.press/v139/hayase21a/hayase21a.pdf)
+1. [Poisoning the Search Space in Neural Architecture Search](https://arxiv.org/pdf/2106.14406.pdf)
+1. [Data Poisoning Won’t Save You From Facial Recognition](https://arxiv.org/pdf/2106.14851.pdf)
+1. [Accumulative Poisoning Attacks on Real-time Data](https://arxiv.org/pdf/2106.09993.pdf)
+1. [Backdoor Attack on Machine Learning Based Android Malware Detectors](https://www.computer.org/csdl/journal/tq/5555/01/09477038/1v2Mgglt5ew)
+1. [Understanding the Limits of Unsupervised Domain Adaptation via Data Poisoning](https://arxiv.org/pdf/2107.03919.pdf)
+1. [Indirect Invisible Poisoning Attacks on Domain Adaptation](http://publish.illinois.edu/junwu3/files/2021/06/KDD21_camera_ready_I2Attack-2.pdf)
+1. [Fight Fire with Fire: Towards Robust Recommender Systems via Adversarial Poisoning Training](https://dl.acm.org/doi/abs/10.1145/3404835.3462914)
+1. [Putting words into the system’s mouth: A targeted attack on neural machine translation using monolingual data poisoning](https://arxiv.org/pdf/2107.05243.pdf)
+1. [SUBNET REPLACEMENT: DEPLOYMENT-STAGE BACKDOOR ATTACK AGAINST DEEP NEURAL NETWORKS IN GRAY-BOX SETTING](https://arxiv.org/abs/2107.07240)
+1. [Spinning Sequence-to-Sequence Models with Meta-Backdoors](https://arxiv.org/abs/2107.10443)
+11. [Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch](https://arxiv.org/abs/2106.08970)
 1. [Poisoning and Backdooring Contrastive Learning](https://arxiv.org/abs/2106.09667)
 1. [AdvDoor: Adversarial Backdoor Attack of Deep Learning System](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/issta21_learning.pdf)
 1. [Defending against Backdoor Attacks in Natural Language Generation](https://arxiv.org/abs/2106.01810)
