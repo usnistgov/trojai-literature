@@ -6,6 +6,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [BatFL: Backdoor Detection on Federated Learning in e-Health](https://ieeexplore.ieee.org/abstract/document/9521339)
+1. [Poisonous Label Attack: Black-Box Data Poisoning Attack with Enhanced Conditional DCGAN](https://link.springer.com/article/10.1007/s11063-021-10584-w)
+1. [Backdoor Attacks on Network Certification via Data Poisoning](https://arxiv.org/pdf/2108.11299.pdf)
 1. [Identifying Physically Realizable Triggers for Backdoored Face Recognition Networks](https://ieeexplore.ieee.org/abstract/document/9506564)
 1. [Simtrojan: Stealthy Backdoor Attack](https://ieeexplore.ieee.org/abstract/document/9506313)
 1. [Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Federated Learning](https://arxiv.org/pdf/2108.10241.pdf)
