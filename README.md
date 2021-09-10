@@ -6,6 +6,10 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Trojan Signatures in DNN Weights](https://arxiv.org/pdf/2109.02836.pdf)
+1. [HOW TO INJECT BACKDOORS WITH BETTER CONSISTENCY: LOGIT ANCHORING ON CLEAN DATA](https://arxiv.org/pdf/2109.01300.pdf)
+1. [A Synergetic Attack against Neural Network Classifiers combining Backdoor and Adversarial Examples](https://arxiv.org/pdf/2109.01275.pdf)
+1. [Backdoor Attack and Defense for Deep Regression](https://arxiv.org/pdf/2109.02381.pdf)
 1. [Use Procedural Noise to Achieve Backdoor Attack](https://ieeexplore.ieee.org/abstract/document/9529206)
 1. [Excess Capacity and Backdoor Poisoning](https://arxiv.org/pdf/2109.00685.pdf)
 1. [BatFL: Backdoor Detection on Federated Learning in e-Health](https://ieeexplore.ieee.org/abstract/document/9521339)
