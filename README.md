@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [COVID-19 Diagnosis from Chest X-Ray Images Using Convolutional Neural Networks and Effects of Data Poisoning](https://link.springer.com/chapter/10.1007/978-3-030-87013-3_38)
 1. [Interpretability-Guided Defense against Backdoor Attacks to Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9530722)
 1. [Trojan Signatures in DNN Weights](https://arxiv.org/pdf/2109.02836.pdf)
 1. [HOW TO INJECT BACKDOORS WITH BETTER CONSISTENCY: LOGIT ANCHORING ON CLEAN DATA](https://arxiv.org/pdf/2109.01300.pdf)
