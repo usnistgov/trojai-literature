@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Data Poisoning against Differentially-Private Learners: Attacks and Defenses](https://arxiv.org/pdf/1903.09860.pdf)
 1. [DOES DIFFERENTIAL PRIVACY DEFEAT DATA POISONING?](https://dp-ml.github.io/2021-workshop-ICLR/files/23.pdf)
 1. [Check Your Other Door! Establishing Backdoor Attacks in the Frequency Domain](https://arxiv.org/pdf/2109.05507.pdf)
 1. [HaS-Nets: A Heal and Select Mechanism to Defend DNNs Against Backdoor Attacks for Data Collection Scenarios](https://arxiv.org/abs/2012.07474)
