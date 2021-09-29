@@ -6,6 +6,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [FooBaR: Fault Fooling Backdoor Attack on Neural Network Training](https://arxiv.org/pdf/2109.11249.pdf)
+1. [BFClass: A Backdoor-free Text Classification Framework](https://arxiv.org/pdf/2109.10855.pdf)
+1. [Backdoor Attacks on Federated Learning with Lottery Ticket Hypothesis](https://arxiv.org/pdf/2109.10512.pdf)
 1. [Data Poisoning against Differentially-Private Learners: Attacks and Defenses](https://arxiv.org/pdf/1903.09860.pdf)
 1. [DOES DIFFERENTIAL PRIVACY DEFEAT DATA POISONING?](https://dp-ml.github.io/2021-workshop-ICLR/files/23.pdf)
 1. [Check Your Other Door! Establishing Backdoor Attacks in the Frequency Domain](https://arxiv.org/pdf/2109.05507.pdf)
