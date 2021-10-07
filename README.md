@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Romoa: Robust Model Aggregation for the Resistance of Federated Learning to Model Poisoning Attacks](https://link.springer.com/chapter/10.1007/978-3-030-88418-5_23)
 1. [Generative strategy based backdoor attacks to 3D point clouds: Work in Progress](https://dl.acm.org/doi/abs/10.1145/3477244.3477611)
 1. [Deep Neural Backdoor in Semi-Supervised Learning: Threats and Countermeasures](https://ieeexplore.ieee.org/abstract/document/9551983)
 1. [FooBaR: Fault Fooling Backdoor Attack on Neural Network Training](https://arxiv.org/pdf/2109.11249.pdf)
