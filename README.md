@@ -6,6 +6,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [DBIA: Data-free Backdoor Injection Attack against Transformer Networks](https://arxiv.org/pdf/2111.11870.pdf)
+1. [Backdoor Attack through Frequency Domain](https://arxiv.org/abs/2111.10991)
+1. [NTD: Non-Transferability Enabled Backdoor Detection](https://arxiv.org/abs/2111.11157#:~:text=This%20work%20observes%20that%20all,implanted%20with%20the%20same%20backdoor.)
 1. [Romoa: Robust Model Aggregation for the Resistance of Federated Learning to Model Poisoning Attacks](https://link.springer.com/chapter/10.1007/978-3-030-88418-5_23)
 1. [Generative strategy based backdoor attacks to 3D point clouds: Work in Progress](https://dl.acm.org/doi/abs/10.1145/3477244.3477611)
 1. [Deep Neural Backdoor in Semi-Supervised Learning: Threats and Countermeasures](https://ieeexplore.ieee.org/abstract/document/9551983)
