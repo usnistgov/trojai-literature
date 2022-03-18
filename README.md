@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Toward Realistic Backdoor Injection Attacks on DNNs using Rowhammer](https://arxiv.org/pdf/2110.07683.pdf)
 1. [Execute Order 66: Targeted Data Poisoning for Reinforcement Learning via Minuscule Perturbations](https://arxiv.org/pdf/2201.00762.pdf)
 1. [A Feature Based On-Line Detector to Remove Adversarial-Backdoors by Iterative Demarcation](https://ieeexplore.ieee.org/document/9673744)
 1. [BlindNet backdoor: Attack on deep neural network using blind watermark](https://link.springer.com/article/10.1007/s11042-021-11135-0)
