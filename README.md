@@ -6,6 +6,8 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [MPAF: Model Poisoning Attacks to Federated Learning based on Fake Clients](https://arxiv.org/pdf/2203.08669.pdf)
+1. [PiDAn: A Coherence Optimization Approach for Backdoor Attack Detection and Mitigation in Deep Neural Networks](https://arxiv.org/pdf/2203.09289.pdf)
 1. [ADFL: A Poisoning Attack Defense Framework for Horizontal Federated Learning](https://ieeexplore.ieee.org/abstract/document/9735274)
 1. [Toward Realistic Backdoor Injection Attacks on DNNs using Rowhammer](https://arxiv.org/pdf/2110.07683.pdf)
 1. [Execute Order 66: Targeted Data Poisoning for Reinforcement Learning via Minuscule Perturbations](https://arxiv.org/pdf/2201.00762.pdf)
