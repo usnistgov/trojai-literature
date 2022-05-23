@@ -7,6 +7,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A curated manual literature review
 
 1. [PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning](https://arxiv.org/pdf/2205.06401.pdf)
+1. [Model-Contrastive Learning for Backdoor Defense](https://arxiv.org/pdf/2205.04411.pdf)
 1. [Robust Anomaly based Attack Detection in Smart Grids under Data Poisoning Attacks](https://dl.acm.org/doi/abs/10.1145/3494107.3522778)
 1. [Disguised as Privacy: Data Poisoning Attacks against Differentially Private Crowdsensing Systems](https://ieeexplore.ieee.org/abstract/document/9775757)
 1. [Poisoning attack toward visual classification model](http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2021122068)
