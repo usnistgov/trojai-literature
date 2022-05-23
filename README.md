@@ -6,6 +6,14 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning](https://arxiv.org/pdf/2205.06401.pdf)
+1. [Robust Anomaly based Attack Detection in Smart Grids under Data Poisoning Attacks](https://dl.acm.org/doi/abs/10.1145/3494107.3522778)
+1. [Disguised as Privacy: Data Poisoning Attacks against Differentially Private Crowdsensing Systems](https://ieeexplore.ieee.org/abstract/document/9775757)
+1. [Poisoning attack toward visual classification model](http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2021122068)
+1. [Verifying Neural Networks Against Backdoor Attacks](https://arxiv.org/pdf/2205.06992.pdf)
+1. [LinkBreaker: Breaking the Backdoor-Trigger Link in DNNs via Neurons Consistency Check](https://ieeexplore.ieee.org/abstract/document/9775729) 
+1. [A Study of the Attention Abnormality in Trojaned BERTs](https://arxiv.org/pdf/2205.08305.pdf)
+1. [Universal Post-Training Backdoor Detection](https://arxiv.org/pdf/2205.06900.pdf)
 1. [Planting Undetectable Backdoors in Machine Learning Models](https://arxiv.org/abs/2204.06974)
 1. [Natural Backdoor Attacks on Deep Neural Networks via Raindrops](https://www.hindawi.com/journals/scn/2022/4593002/)
 1. [MPAF: Model Poisoning Attacks to Federated Learning based on Fake Clients](https://arxiv.org/pdf/2203.08669.pdf)
