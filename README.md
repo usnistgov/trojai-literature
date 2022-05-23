@@ -11,6 +11,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 1. [Disguised as Privacy: Data Poisoning Attacks against Differentially Private Crowdsensing Systems](https://ieeexplore.ieee.org/abstract/document/9775757)
 1. [Poisoning attack toward visual classification model](http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2021122068)
 1. [Verifying Neural Networks Against Backdoor Attacks](https://arxiv.org/pdf/2205.06992.pdf)
+1. [VPN: Verification of Poisoning in Neural Networks](https://arxiv.org/pdf/2205.03894.pdf)
 1. [LinkBreaker: Breaking the Backdoor-Trigger Link in DNNs via Neurons Consistency Check](https://ieeexplore.ieee.org/abstract/document/9775729) 
 1. [A Study of the Attention Abnormality in Trojaned BERTs](https://arxiv.org/pdf/2205.08305.pdf)
 1. [Universal Post-Training Backdoor Detection](https://arxiv.org/pdf/2205.06900.pdf)
