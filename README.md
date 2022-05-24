@@ -6,6 +6,8 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Backdoor Attacks on Bayesian Neural Networks using Reverse Distribution](https://arxiv.org/pdf/2205.09167.pdf)
+1. [Design of AI Trojans for Evading Machine Learning-based Detection of Hardware Trojans](https://ieeexplore.ieee.org/abstract/document/9774654)
 1. [PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning](https://arxiv.org/pdf/2205.06401.pdf)
 1. [Model-Contrastive Learning for Backdoor Defense](https://arxiv.org/pdf/2205.04411.pdf)
 1. [Robust Anomaly based Attack Detection in Smart Grids under Data Poisoning Attacks](https://dl.acm.org/doi/abs/10.1145/3494107.3522778)
