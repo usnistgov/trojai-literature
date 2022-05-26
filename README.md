@@ -5,7 +5,8 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A [flair](https://github.com/flairNLP/flair) embedding created from the arXiv CS subset; details will be provided later.
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
-
+- 
+1. [Fooling a Face Recognition System with a Marker-Free Label-Consistent Backdoor Attack](https://link.springer.com/chapter/10.1007/978-3-031-06430-2_15?noAccess=true)
 1. [Backdoor Attacks on Bayesian Neural Networks using Reverse Distribution](https://arxiv.org/pdf/2205.09167.pdf)
 1. [Design of AI Trojans for Evading Machine Learning-based Detection of Hardware Trojans](https://ieeexplore.ieee.org/abstract/document/9774654)
 1. [PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning](https://arxiv.org/pdf/2205.06401.pdf)
