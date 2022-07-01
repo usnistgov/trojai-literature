@@ -6,7 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
-1. [Adversarial poisoning attacks on reinforcement learning-driven energy pricing](http://people.eecs.berkeley.edu/~orrp/files/gjpss.pdf
+1. [Adversarial poisoning attacks on reinforcement learning-driven energy pricing](http://people.eecs.berkeley.edu/~orrp/files/gjpss.pdf)
 1. [Natural Backdoor Datasets](https://arxiv.org/pdf/2206.10673.pdf)
 1. [Backdoor Attacks and Defenses in Federated Learning: State-of-the-art, Taxonomy, and Future Directions](https://ieeexplore.ieee.org/abstract/document/9806416)
 3. [VulnerGAN: a backdoor attack through vulnerability amplification against machine learning-based network intrusion detection systems](http://scis.scichina.com/en/2022/170303.pdf)
