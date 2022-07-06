@@ -6,6 +6,11 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Evil vs evil: using adversarial examples against backdoor attack in federated learning](https://link.springer.com/article/10.1007/s00530-022-00965-z)
+1. [Auditing Visualizations: Transparency Methods Struggle to Detect Anomalous Behavior](https://arxiv.org/pdf/2206.13498.pdf)
+1. [Defending Backdoor Attacks on Vision Transformer via Patch Processing](https://arxiv.org/pdf/2206.12381.pdf)
+1. [Defense against backdoor attack in federated learning](https://www.sciencedirect.com/science/article/pii/S0167404822002139)
+1. [SentMod: Hidden Backdoor Attack on Unstructured Textual Data](https://ieeexplore.ieee.org/abstract/document/9799471)
 1. [Adversarial poisoning attacks on reinforcement learning-driven energy pricing](http://people.eecs.berkeley.edu/~orrp/files/gjpss.pdf)
 1. [Natural Backdoor Datasets](https://arxiv.org/pdf/2206.10673.pdf)
 1. [Backdoor Attacks and Defenses in Federated Learning: State-of-the-art, Taxonomy, and Future Directions](https://ieeexplore.ieee.org/abstract/document/9806416)
