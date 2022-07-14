@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Not All Poisons are Created Equal: Robust Training against Data Poisoning](https://proceedings.mlr.press/v162/yang22j/yang22j.pdf)
 1. [Evil vs evil: using adversarial examples against backdoor attack in federated learning](https://link.springer.com/article/10.1007/s00530-022-00965-z)
 1. [Auditing Visualizations: Transparency Methods Struggle to Detect Anomalous Behavior](https://arxiv.org/pdf/2206.13498.pdf)
 1. [Defending Backdoor Attacks on Vision Transformer via Patch Processing](https://arxiv.org/pdf/2206.12381.pdf)
