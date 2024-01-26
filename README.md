@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)
 1. [Physical Adversarial Attack meets Computer Vision: A Decade Survey](https://web10.arxiv.org/pdf/2209.15179.pdf)
 1. [Data Poisoning Attacks Against Multimodal Encoders](https://web10.arxiv.org/pdf/2209.15266.pdf)
 1. [MARNet: Backdoor Attacks Against Cooperative Multi-Agent Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9894692)
