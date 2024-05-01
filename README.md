@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Simple Probes can catch sleeper agents](https://www.anthropic.com/research/probes-catch-sleeper-agents)
 1. [Architectural Backdoors in Neural Networks](https://arxiv.org/abs/2206.07840)
 1. [On the Limitation of Backdoor Detection Methods](https://openreview.net/pdf?id=tYCLmx9RgE)
 1. [Game of Trojans: Adaptive Adversaries Against Output-based Trojaned-Model Detectors](https://arxiv.org/abs/2402.08695)
