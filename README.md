@@ -6,6 +6,18 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [LoRA-as-an-Attack! Piercing LLM Safety Under The Share-and-Play Scenario](https://arxiv.org/pdf/2403.00108)
+1. [BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://arxiv.org/abs/2401.12242)
+1. [BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents](https://arxiv.org/abs/2406.03007)
+1. [Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models](https://arxiv.org/abs/2406.05948)
+1. [BEEAR: Embedding-based Adversarial Removal of Safety Backdoors in Instruction-tuned Language Models](https://arxiv.org/abs/2406.17092)
+1. [Is poisoning a real threat to LLM alignment? Maybe more so than you think](https://arxiv.org/abs/2406.12091)
+1. [ADAPTIVEBACKDOOR: Backdoored Language Model Agents that Detect Human Overseers](https://openreview.net/pdf?id=QdSJQAaoDp)
+1. [Mitigating Fine-tuning based Jailbreak Attack with Backdoor Enhanced Safety Alignment](https://arxiv.org/abs/2402.14968)
+1. [AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](https://arxiv.org/abs/2407.12784)
+1. [Trojan Activation Attack: Red-Teaming Large Language Models using Activation Steering for Safety-Alignment](https://arxiv.org/abs/2311.09433)
+1. [Scaling Laws for Data Poisoning in LLMs](https://arxiv.org/pdf/2408.02946)
+1. [BACKDOORLLM: A Comprehensive Benchmark for Backdoor Attacks on Large Language Models](https://arxiv.org/pdf/2408.12798)
 1. [Simple Probes can catch sleeper agents](https://www.anthropic.com/research/probes-catch-sleeper-agents)
 1. [Architectural Backdoors in Neural Networks](https://arxiv.org/abs/2206.07840)
 1. [On the Limitation of Backdoor Detection Methods](https://openreview.net/pdf?id=tYCLmx9RgE)
