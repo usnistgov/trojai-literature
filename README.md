@@ -2,7 +2,7 @@
 
 The list below contains curated papers and arXiv articles that are related to Trojan attacks, backdoor attacks, and data poisoning on neural networks and machine learning systems. They are ordered "approximately" from most to least recent and articles denoted with a "*" mention the TrojAI program directly. Some of the particularly relevant papers include a summary that can be accessed by clicking the "Summary" drop down icon underneath the paper link. These articles were identified using variety of methods including:
 
-- A [flair](https://github.com/flairNLP/flair) embedding created from the arXiv CS subset; details will be provided later.
+- A [flair](https://github.com/flairNLP/flair) embedding created from the arXiv CS subset
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
