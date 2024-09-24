@@ -6,6 +6,9 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [Transferring Backdoors between Large Language Models by Knowledge Distillation](https://arxiv.org/abs/2408.09878)
+1. [Composite Backdoor Attacks Against Large Language Models](https://arxiv.org/abs/2310.07676)
+1. [CleanGen: Mitigating Backdoor Attacks for Generation Tasks in Large Language Models](https://arxiv.org/abs/2406.12257)
 1. [LoRA-as-an-Attack! Piercing LLM Safety Under The Share-and-Play Scenario](https://arxiv.org/pdf/2403.00108)
 1. [BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://arxiv.org/abs/2401.12242)
 1. [BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents](https://arxiv.org/abs/2406.03007)
