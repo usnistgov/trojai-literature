@@ -6,6 +6,7 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [TrojFM: Resource-efficient Backdoor Attacks against Very Large Foundation Models](https://arxiv.org/abs/2405.16783)
 1. [A Survey of Backdoor Attacks and Defenses on Large Language Models: Implications for Security Measures](https://arxiv.org/pdf/2406.06852)
 1. [Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning](https://arxiv.org/abs/2403.16257)
 1. [Transferring Backdoors between Large Language Models by Knowledge Distillation](https://arxiv.org/abs/2408.09878)
