@@ -6,6 +6,8 @@ The list below contains curated papers and arXiv articles that are related to Tr
 - A trained [ASReview](https://asreview.readthedocs.io/en/latest/) random forest model
 - A curated manual literature review
 
+1. [TA-CLEANER: A FINE-GRAINED TEXT ALIGNMENT BACKDOOR DEFENSE STRATEGY FOR MULTIMODAL CONTRASTIVE](https://arxiv.org/pdf/2409.17601)
+1. [WEAK-TO-STRONG BACKDOOR ATTACKS FOR LLMS WITH CONTRASTIVE KNOWLEDGE DISTILLATION](https://arxiv.org/pdf/2409.17946)
 1. [Data-centric NLP Backdoor Defense from the Lens of Memorization](https://arxiv.org/pdf/2409.14200)
 1. [Obliviate: Neutralizing Task-agnostic Backdoors within the Parameter-efficient Fine-tuning Paradigm](https://arxiv.org/pdf/2409.14119)
 1. [Large Language Models Are Better Adversaries: Exploring Generative Clean-Label Backdoor Attacks Against Text Classifiers](https://arxiv.org/abs/2310.18603)
